@@ -145,11 +145,13 @@ footer.page-footer {
 }
 .card{
 	padding: 20px 15px;
+	border-radius: 20px;
 }
 .more{
 	margin-top: 10px;
 	border: 1px solid #e0e0e0;
 	color: #e0e0e0;
+	border-radius: 5px;
 }
 .more:hover{
 	color: #607d8b;
