@@ -131,11 +131,12 @@ footer.page-footer {
 .enquire{
   color: white;
   background: #666;
-  borer: 3px solid #fff;
+  border: 2px solid #e0e0e0;
+  border-radius: 100px;
 }
 .enquire:hover{
-  color: #666;
-  background: #fff;
+  color: #607d8b;
+  background: #e0e0e0;
 }
 .modal{
 	border: 1px solid #607d8b;
