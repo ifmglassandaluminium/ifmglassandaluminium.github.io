@@ -7,7 +7,9 @@
  */
  
  @import url('https://fonts.googleapis.com/css?family=Quicksand');
-html{
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+ html{
+	 fot-family: 'Roboto', sans-serif;
 	font-family: 'Quicksand', sans-serif;
 	background-color: #E0E0E0;
 }
@@ -146,6 +148,7 @@ footer.page-footer {
 .card{
 	padding: 20px 15px;
 	border-radius: 20px;
+
 }
 .more{
 	margin-top: 10px;
